@@ -1,0 +1,7 @@
+[submodule "client"]
+    path = frontend
+    url = https://github.com/pragun-bansal/TableApp-frontend
+
+[submodule "server"]
+    path = backend
+    url = https://github.com/pragun-bansal/TableApp-backend
